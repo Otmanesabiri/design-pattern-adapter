@@ -1,1 +1,1 @@
-## design pattern adapter
+## design pattern adapter implemented with java
